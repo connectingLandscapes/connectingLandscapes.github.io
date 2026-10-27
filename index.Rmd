@@ -1,0 +1,36 @@
+---
+title: "Cola Example"
+
+output:
+
+html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    theme: united
+    highlight: tango
+---
+
+<font size="4"><a href="Case_A.html">Case A</a></font>
+<font size="4"><a href="Case_B.html">Case B</a></font>
+<font size="4"><a href="Case_C.html">Case C</a></font>
+<font size="4"><a href="Case_D.html">Case D</a></font>
+<font size="4"><a href="Case_E.html">Case E</a></font>
+
+<center>
+centered image here 
+</center>
+
+# Title 1
+
+"![](taller_R.png){width=50% height=50%}"
+Some text title 1
+
+## Title 2
+
+Some text title 2
+
+### title 3
+
+
+Some text title 3
